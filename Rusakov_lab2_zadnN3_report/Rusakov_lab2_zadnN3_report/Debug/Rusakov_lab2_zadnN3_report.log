@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Cummunist\source\repos\Rusakov_lab2_zadnN3_report\Rusakov_lab2_zadnN3_report\Source.cpp(15,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\Rusakov_lab2_zadnN3_report\Rusakov_lab2_zadnN3_report\Source.cpp(24,43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Rusakov_lab2_zadnN3_report.vcxproj -> C:\Users\Cummunist\source\repos\Rusakov_lab2_zadnN3_report\Debug\Rusakov_lab2_zadnN3_report.exe
