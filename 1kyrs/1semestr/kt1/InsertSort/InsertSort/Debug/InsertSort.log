@@ -1,0 +1,3 @@
+﻿  InsertSort.cpp
+C:\Users\Cummunist\source\repos\InsertSort\InsertSort\InsertSort.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  InsertSort.vcxproj -> C:\Users\Cummunist\source\repos\InsertSort\Debug\InsertSort.exe

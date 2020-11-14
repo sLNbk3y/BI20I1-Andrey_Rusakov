@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605330785 source:d:\!projects\chast_ot_prostchisla\main.cpp
+	<iostream>
+	<cmath>
+	<Windows.h>
+

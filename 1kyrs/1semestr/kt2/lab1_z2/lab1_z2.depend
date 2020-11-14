@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605333536 source:c:\users\cummunist\bi20i1-andrey_rusakov_lp\1kyrs\1semestr\kt2\lab1_z2\main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+	<Windows.h>
+
