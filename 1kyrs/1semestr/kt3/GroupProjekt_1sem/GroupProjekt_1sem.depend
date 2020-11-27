@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606503743 source:c:\users\cummunist\bi20i1-andrey_rusakov_lp\1kyrs\1semestr\kt3\groupprojekt_1sem\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<Windows.h>
+
