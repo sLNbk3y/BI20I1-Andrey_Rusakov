@@ -1,0 +1,12 @@
+﻿  GroupProjekt_1sem.cpp
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(97,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(171,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(293,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(303,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(306,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(322,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(64): warning C4715: trans: значение возвращается не при всех путях выполнения
+C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(299): warning C4715: checkLength: значение возвращается не при всех путях выполнения
+  GroupProjekt_1sem.vcxproj -> C:\Users\Cummunist\source\repos\GroupProjekt_1sem\Debug\GroupProjekt_1sem.exe
