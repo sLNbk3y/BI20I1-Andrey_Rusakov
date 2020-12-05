@@ -17,7 +17,6 @@ vector <int> getNumber();
 
 int operand;
 int len_a;
-long long int n = 0;
 int checkStr();
 void sum();
 void subtraction();
@@ -317,12 +316,22 @@ void stepen() {
 	for (int i = 0; i < len_a; i++) {
 		a.push_back(trans(uInput[i]));
 	}
-	for (int i = len_a + 1; i < uInput.length(); i++) {
-		for (int j = 1; j < uInput.length() - len_a - 1; j++) {
-			n = n + (trans(uInput[i]) * 10);
-		}
+	int counter = 0;
+	long long int n = 0;
+
+	for (int i = uInput.length() - 1; i >= len_a + 1; i--) {
+		
+	if (counter > 0) {
+		n = n + trans(uInput[i]) * pow(10, counter);
 	}
-	while (n >= 1) {
+	else n += trans(uInput[i]);
+	counter++;
+	}
+	if (n == 0) { 
+		result = { 0 };
+	}
+
+	while (n > 1) {
 		for (int i = 0; i < len_a; i++) {
 			b.push_back(trans(uInput[i]));
 		}
@@ -331,7 +340,6 @@ void stepen() {
 		n--;
 	}
 	result.swap(a);
-	n = 0;
 }
 
 

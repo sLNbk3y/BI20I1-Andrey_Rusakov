@@ -1,12 +1,12 @@
 ﻿  GroupProjekt_1sem.cpp
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(97,28): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(171,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(293,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(303,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(306,30): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(322,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(64): warning C4715: trans: значение возвращается не при всех путях выполнения
-C:\Users\Cummunist\source\repos\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(299): warning C4715: checkLength: значение возвращается не при всех путях выполнения
-  GroupProjekt_1sem.vcxproj -> C:\Users\Cummunist\source\repos\GroupProjekt_1sem\Debug\GroupProjekt_1sem.exe
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(96,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(292,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(302,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(305,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(325,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(63): warning C4715: trans: значение возвращается не при всех путях выполнения
+C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\GroupProjekt_1sem\GroupProjekt_1sem.cpp(298): warning C4715: checkLength: значение возвращается не при всех путях выполнения
+  GroupProjekt_1sem.vcxproj -> C:\Users\study\source\repos\BI20I1-Andrey_Rusakov_LP\GroupProjekt_1sem\Debug\GroupProjekt_1sem.exe
